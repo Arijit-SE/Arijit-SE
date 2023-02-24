@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="-menVCHD0vOpkvEhjpioc52hrNPjRhky0KGf27EQLaA" />
 ![logo](https://github.com/Arijit-SE/Arijit-SE/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate System Engineer of TCS from India</h3>
